@@ -4,8 +4,8 @@ This project is designed to download daily realized data regarding the Greek Pow
 
 ## Results
 Below is a snapshot of the first and last rows when the.csv file is imported to excel.
-[Figure](images\first_rows.png)
-[Figure2](images\last_rows.png)
+[Figure](images/first_rows.png)
+[Figure2](images/last_rows.png)
 
 Output file can be found [here](https://github.com/Miltiadis-Kon/news-scraper/tree/main/data/output)
 ## Project Structure
@@ -77,6 +77,9 @@ The configuration settings are located in the [config.py](https://github.com/Mil
 - [START_DATE](https://github.com/Miltiadis-Kon/news-scraper/blob/main/src/config.py#L4): The start date for downloading data (format: "YYYY-MM-DD").
 - [END_DATE](https://github.com/Miltiadis-Kon/news-scraper/blob/main/src/config.py#L5): The end date for downloading data (format: "YYYY-MM-DD").
 - [BASE_URL](https://github.com/Miltiadis-Kon/news-scraper/blob/main/src/config.py#L8): The base URL for downloading Excel files.
+
+- [SEPERATOR](https://github.com/Miltiadis-Kon/news-scraper/blob/main/src/config.py#L10): Used to define how to structure your csv output file
+
 
 ## Project Components
 
