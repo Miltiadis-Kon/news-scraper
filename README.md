@@ -1,5 +1,3 @@
-# data-processor/data-processor/README.md
-
 # Data Processor Project
 
 This project is designed to download daily realized data regarding the Greek Power Network system, process the data, and output it in a structured CSV format.
