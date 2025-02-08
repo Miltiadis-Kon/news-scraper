@@ -4,8 +4,8 @@ This project is designed to download daily realized data regarding the Greek Pow
 
 ## Results
 Below is a snapshot of the first and last rows when the.csv file is imported to excel.
-[Figure](images/first_rows.png)
-[Figure2](images/last_rows.png)
+![alt text](images/first_rows.png)
+![alt text](images/last_rows.png)
 
 Output file can be found [here](https://github.com/Miltiadis-Kon/news-scraper/tree/main/data/output)
 ## Project Structure
